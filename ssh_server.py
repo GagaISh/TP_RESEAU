@@ -11,7 +11,7 @@ import os
 import paramiko
 
 # ── Configuration ────────────────────────────────────────────────────
-host          = '10.57.252.57'  # identique à l'original
+host          = '10.10.50.52'  # identique à l'original
 data_payload  = 2048
 backlog       = 5
 HOST_KEY_FILE = "server_rsa_key"
