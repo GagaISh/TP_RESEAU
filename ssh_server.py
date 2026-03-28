@@ -20,7 +20,7 @@ import os
 
 # -- Configuration --
 # Constantes de configuration réseau et d'authentification du serveur
-HOST = '10.99.166.170'  # Écoute sur toutes les interfaces
+HOST = '10.99.166.57'  # Écoute sur toutes les interfaces
 PORT = 2222
 USERNAME = "admin"
 PASSWORD = "password123"
