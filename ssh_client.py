@@ -22,7 +22,7 @@ import threading
 # -- Configuration --
 # Utilise '127.0.0.1' si le serveur est sur le même PC, sinon l'IP du serveur
 # Note : Ici l'IP réseau est codée en dur pour faciliter les tests avec le binôme
-host     = '10.99.166.170' 
+host     = '10.99.166.159' 
 USERNAME = "admin"
 PASSWORD = "password123"
 

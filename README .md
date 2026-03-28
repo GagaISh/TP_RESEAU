@@ -50,5 +50,6 @@ client.py : Établit la connexion TCP, superpose la couche cryptographique SSH, 
 
 ## Autrices
 Graciella ISHIMWE
-Fathia ABDOURAHMAN MOHAMED
-Millisa 
+Fathia  ABDOURAHMAN MOHAMED
+ABDELHAMID Millisa
+ 
